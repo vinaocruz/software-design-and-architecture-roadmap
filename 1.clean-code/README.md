@@ -16,6 +16,7 @@ Uma descrição do que se trata essa etapa
 ## Mídia (vídeo e podcast)
 - [Clean Code (transforme a sua carreira de desenvolvedor) // Palestra](https://www.youtube.com/watch?v=4EnLAQprzJU) 🇧🇷
 - [Clean Code: Frescura ou necessidade?](https://cafe.algaworks.com/palestra-especial-codigo-limpo/) 🇧🇷
+- [Clean Code // Live #35](https://www.youtube.com/watch?v=tlqpNTFa_YQ) 🇧🇷
 
 ## Livros
 - [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=Clean+Code&qid=1594668343&sr=8-1) 🇺🇸
