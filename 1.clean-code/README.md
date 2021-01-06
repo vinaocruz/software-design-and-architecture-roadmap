@@ -12,6 +12,7 @@ Uma descrição do que se trata essa etapa
 - https://medium.com/swlh/c-lean-code-db84f8e312d4 🇺🇸
 - https://medium.com/better-programming/code-reviews-really-503e1ea62f45 🇺🇸
 - https://medium.com/swlh/tips-on-writing-clean-code-4d44120c1714 🇺🇸
+- https://medium.com/swlh/what-is-clean-code-463d25fa6e0b 🇺🇸
 
 ## Mídia (vídeo e podcast)
 - [Clean Code (transforme a sua carreira de desenvolvedor) // Palestra](https://www.youtube.com/watch?v=4EnLAQprzJU) 🇧🇷
