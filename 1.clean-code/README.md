@@ -13,6 +13,8 @@ Uma descrição do que se trata essa etapa
 - https://medium.com/better-programming/code-reviews-really-503e1ea62f45 🇺🇸
 - https://medium.com/swlh/tips-on-writing-clean-code-4d44120c1714 🇺🇸
 - https://medium.com/swlh/what-is-clean-code-463d25fa6e0b 🇺🇸
+- https://medium.com/javarevisited/clean-java-code-79b6da1878c9 🇺🇸
+- https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11 🇺🇸
 
 ## Mídia (vídeo e podcast)
 - [Clean Code (transforme a sua carreira de desenvolvedor) // Palestra](https://www.youtube.com/watch?v=4EnLAQprzJU) 🇧🇷
