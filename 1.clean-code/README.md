@@ -15,6 +15,7 @@ Uma descrição do que se trata essa etapa
 - https://medium.com/swlh/what-is-clean-code-463d25fa6e0b 🇺🇸
 - https://medium.com/javarevisited/clean-java-code-79b6da1878c9 🇺🇸
 - https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11 🇺🇸
+- https://devstartup.medium.com/clean-code-princípios-e-práticas-que-podem-te-levar-para-um-próximo-nível-f676dcab0248 🇧🇷
 
 ## Mídia (vídeo e podcast)
 - [Clean Code (transforme a sua carreira de desenvolvedor) // Palestra](https://www.youtube.com/watch?v=4EnLAQprzJU) 🇧🇷
